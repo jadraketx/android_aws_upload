@@ -1,0 +1,19 @@
+{
+    "awstwo": {
+        "awscloudformation": {
+            "AuthRoleName": "androidawsupload-awstwo-20190628161027-authRole",
+            "UnauthRoleArn": "arn:aws:iam::931342627223:role/androidawsupload-awstwo-20190628161027-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::931342627223:role/androidawsupload-awstwo-20190628161027-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "androidawsupload-awstwo-20190628161027-deployment",
+            "UnauthRoleName": "androidawsupload-awstwo-20190628161027-unauthRole",
+            "StackName": "androidawsupload-awstwo-20190628161027",
+            "StackId": "arn:aws:cloudformation:us-east-1:931342627223:stack/androidawsupload-awstwo-20190628161027/297935f0-99e9-11e9-8622-0eff07caa3c6"
+        },
+        "categories": {
+            "auth": {
+                "androidawsuploadb1659007": {}
+            }
+        }
+    }
+}

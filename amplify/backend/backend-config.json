@@ -1,0 +1,14 @@
+{
+	"auth": {
+		"androidawsuploadb1659007": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation"
+		}
+	},
+	"storage": {
+		"test": {
+			"service": "S3",
+			"providerPlugin": "awscloudformation"
+		}
+	}
+}
